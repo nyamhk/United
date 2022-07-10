@@ -9,7 +9,8 @@ export const translations = {
                 ua: "Английський",
                 fr: "Anglais",
                 ptbr: "Português (Brasileiro)",
-                de: "Englisch"
+                de: "Englisch",
+                it: "Inglese",
             },
             id: "en"
         },
@@ -22,7 +23,8 @@ export const translations = {
                 ua: "Польский",
                 fr: "Polonais",
                 ptbr: "Polonês",
-                de: "Polnisch"
+                de: "Polnisch",
+                it: "Polacco",
             },
             id: "pl"
         },
@@ -35,7 +37,8 @@ export const translations = {
                 ua: "Болгарський",
                 fr: "Bulgare",
                 ptbr: "Bulgária",
-                de: "Bulgarisch"
+                de: "Bulgarisch",
+                it: "Bulgaro",
             },
             id: "bg"
         },
@@ -48,7 +51,8 @@ export const translations = {
                 ua: "Український",
                 fr: "Ukrainien",
                 ptbr: "Ucrâniano",
-                de: "Ukrainisch"
+                de: "Ukrainisch",
+                it: "Ucraino",
             },
             id: "ua"
         },
@@ -61,7 +65,8 @@ export const translations = {
                 ua: "Французький",
                 fr: "Français",
                 ptbr: "Francês",
-                de: "Französisch"
+                de: "Französisch",
+                it: "Francese",
             },
             id: "fr"
         },
@@ -74,7 +79,8 @@ export const translations = {
                 ua: "",
                 fr: "",
                 ptbr: "Português (Brasileiro)",
-                de: "Portugiesisch"
+                de: "Portugiesisch",
+                it: "Portoghese",
             },
             id: "ptbr"
         },
@@ -87,7 +93,8 @@ export const translations = {
                 ua: "",
                 fr: "Allemand",
                 ptbr: "",
-                de: "Deutsch"
+                de: "Deutsch",
+                it: "Tedesco",
             },
             id: "de"
         }
@@ -102,7 +109,8 @@ export const translations = {
                     ua: "Програми",
                     fr: "Programme",
                     ptbr: "Lançador",
-                    de: "Programme"
+                    de: "Programme",
+                    it: "Programma",
                 },
                 hover: {
                     en: "Launch programs",
@@ -111,7 +119,8 @@ export const translations = {
                     ua: "Запустити програму",
                     fr: "Execution des programmes",
                     ptbr: "Executar Programas",
-                    de: "Programme ausführen"
+                    de: "Programme ausführen",
+                    it: "Esegui i programmi",
                 }
             },
         },
@@ -125,6 +134,7 @@ export const translations = {
             fr: "Batterie",
             ptbr: "Bateria",
             de: "Batterie",
+            it: "Batteria",
             charging: {
                 en: "Charging",
                 pl: "Ładowanie",
@@ -132,7 +142,8 @@ export const translations = {
                 ua: "Заряджання",
                 fr: "Mise en charge",
                 ptbr: "Carregando",
-                de: "Lädt"
+                de: "Lädt",
+                it: "In carica",
             }
         },
         volume: {
@@ -143,6 +154,7 @@ export const translations = {
             fr: "Volume",
             ptbr: "Volume",
             de: "Lautstärke",
+            it: "volume",
             muted: {
                 en: "Muted",
                 pl: "Wyciszone",
@@ -150,7 +162,8 @@ export const translations = {
                 ua: "Приглушено",
                 fr: "Muet",
                 ptbr: "Mudo",
-                de: "Ton aus"
+                de: "Ton aus",
+                it: "Silenziato",
             }
         },
         connection: {
@@ -169,7 +182,8 @@ export const translations = {
                     ua: "З'єднано",
                     fr: "Connecté",
                     ptbr: "Conectado",
-                    de: "Verbunden"
+                    de: "Verbunden",
+                    it: "Connesso",
                 },
                 false: {
                     en: "Disconnected",
@@ -178,7 +192,8 @@ export const translations = {
                     ua: "Від'єднано",
                     fr: "Déconnecté",
                     ptbr: "Desconectado",
-                    de: "Getrennt"
+                    de: "Getrennt",
+                    it: "Disconnesso",
                 }
             }
         }
@@ -193,7 +208,8 @@ export const translations = {
                     ua: "Січень",
                     fr: "Janvier",
                     ptbr: "Janeiro",
-                    de: "Januar"
+                    de: "Januar",
+                    it: "Gennaio",
                 },
                 short: {
                     en: "Jan",
@@ -202,7 +218,8 @@ export const translations = {
                     ua: "Січ",
                     fr: "Janv",
                     ptbr: "Jan",
-                    de: "Jan"
+                    de: "Jan",
+                    it: "Gen",
                 }
             },
             {
@@ -213,7 +230,8 @@ export const translations = {
                     ua: "Лютий",
                     fr: "Février",
                     ptbr: "Fevereiro",
-                    de: "Februar"
+                    de: "Februar",
+                    it: "Febbraio",
                 },
                 short: {
                     en: "Feb",
@@ -222,7 +240,8 @@ export const translations = {
                     ua: "Лют",
                     fr: "Févr",
                     ptbr: "Fev",
-                    de: "Feb"
+                    de: "Feb",
+                    it: "Feb",
                 }
             },
             {
@@ -233,7 +252,8 @@ export const translations = {
                     ua: "Березень",
                     fr: "Mars",
                     ptbr: "Março",
-                    de: "März"
+                    de: "März",
+                    it: "Marzo",
                 },
                 short: {
                     en: "Mar",
@@ -242,7 +262,8 @@ export const translations = {
                     ua: "Бер",
                     fr: "Mars",
                     ptbr: "Mar",
-                    de: "Mär"
+                    de: "Mär",
+                    it: "Mar",
                 }
             },
             {
@@ -253,7 +274,8 @@ export const translations = {
                     ua: "Квітень",
                     fr: "Avril",
                     ptbr: "Abril",
-                    de: "April"
+                    de: "April",
+                    it: "Aprile",
                 },
                 short: {
                     en: "Apr",
@@ -262,7 +284,8 @@ export const translations = {
                     ua: "Кві",
                     fr: "Avr",
                     ptbr: "Abr",
-                    de: "Apr"
+                    de: "Apr",
+                    it: "Apr",
                 }
             },
             {
@@ -273,7 +296,8 @@ export const translations = {
                     ua: "Травень",
                     fr: "Mai",
                     ptbr: "Maio",
-                    de: "Mai"
+                    de: "Mai",
+                    it: "Maggio",
                 },
                 short: {
                     en: "May",
@@ -282,7 +306,8 @@ export const translations = {
                     ua: "Трав",
                     fr: "Mai",
                     ptbr: "Maio",
-                    de: "Mai"
+                    de: "Mai",
+                    it: "Mag",
                 }
             },
             {
@@ -293,7 +318,8 @@ export const translations = {
                     ua: "Червень",
                     fr: "Juin",
                     ptbr: "Junho",
-                    de: "Juni"
+                    de: "Juni",
+                    it: "Giugno",
                 },
                 short: {
                     en: "Jun",
@@ -302,7 +328,8 @@ export const translations = {
                     ua: "Чер",
                     fr: "Juin",
                     ptbr: "Jun",
-                    de: "Jun"
+                    de: "Jun",
+                    it: "Giu",
                 }
             },
             {
@@ -313,7 +340,8 @@ export const translations = {
                     ua: "Липень",
                     fr: "Juillet",
                     ptbr: "Julho",
-                    de: "Juli"
+                    de: "Juli",
+                    it: "Luglio",
                 },
                 short: {
                     en: "Jul",
@@ -322,7 +350,8 @@ export const translations = {
                     ua: "Лип",
                     fr: "Juill",
                     ptbr: "Jul",
-                    de: "Jul"
+                    de: "Jul",
+                    it: "Lug",
                 }
             },
             {
@@ -333,7 +362,8 @@ export const translations = {
                     ua: "Серпень",
                     fr: "Août",
                     ptbr: "Agosto",
-                    de: "August"
+                    de: "August",
+                    it: "Agosto",
                 },
                 short: {
                     en: "Aug",
@@ -342,7 +372,8 @@ export const translations = {
                     ua: "Се",
                     fr: "Août",
                     ptbr: "Ago",
-                    de: "Aug"
+                    de: "Aug",
+                    it: "Ago",
                 }
             },
             {
@@ -353,7 +384,8 @@ export const translations = {
                     ua: "Вересень",
                     fr: "Septembre",
                     ptbr: "Setembro",
-                    de: "September"
+                    de: "September",
+                    it: "Settembre",
                 },
                 short: {
                     en: "Sep",
@@ -362,7 +394,8 @@ export const translations = {
                     ua: "Вер",
                     fr: "Septembre",
                     ptbr: "Set",
-                    de: "Sep"
+                    de: "Sep",
+                    it: "Set",
                 }
             },
             {
@@ -373,7 +406,8 @@ export const translations = {
                     ua: "Жовтень",
                     fr: "Octobre",
                     ptbr: "Outubro",
-                    de: "Oktober"
+                    de: "Oktober",
+                    it: "Ottobre",
                 },
                 short: {
                     en: "Oct",
@@ -382,7 +416,8 @@ export const translations = {
                     ua: "Жовт",
                     fr: "Oct",
                     ptbr: "Out",
-                    de: "Okt"
+                    de: "Okt",
+                    it: "Ott",
                 }
             },
             {
@@ -393,7 +428,8 @@ export const translations = {
                     ua: "Листопад",
                     fr: "Novembre",
                     ptbr: "Novembro",
-                    de: "November"
+                    de: "November",
+                    it: "Novembre",
                 },
                 short: {
                     en: "Nov",
@@ -402,7 +438,8 @@ export const translations = {
                     ua: "Лис",
                     fr: "Nov",
                     ptbr: "Nov",
-                    de: "Nov"
+                    de: "Nov",
+                    it: "Nov",
                 }
             },
             {
@@ -413,7 +450,8 @@ export const translations = {
                     ua: "Грудень",
                     fr: "Décembre",
                     ptbr: "Dezembro",
-                    de: "Dezember"
+                    de: "Dezember",
+                    it: "Dicembre",
                 },
                 short: {
                     en: "Dec",
@@ -422,7 +460,8 @@ export const translations = {
                     ua: "Гру",
                     fr: "Déc",
                     ptbr: "Dez",
-                    de: "Dez"
+                    de: "Dez",
+                    it: "Dic",
                 }
             }
         ],
@@ -434,7 +473,8 @@ export const translations = {
                 ua: "Мілісекунда",
                 fr: "Milliseconde",
                 ptbr: "Milisegundo",
-                de: "Millisekunde"
+                de: "Millisekunde",
+                it: "Millisecondo",
             },
             second: {
                 en: "Second",
@@ -443,7 +483,8 @@ export const translations = {
                 ua: "Секунда",
                 fr: "Seconde",
                 ptbr: "Segundo",
-                de: "Sekunde"
+                de: "Sekunde",
+                it: "Secondo",
             },
             minute: {
                 en: "Minute",
@@ -452,7 +493,8 @@ export const translations = {
                 ua: "Хвилина",
                 fr: "Minute",
                 ptbr: "Minuto",
-                de: "Minute"
+                de: "Minute",
+                it: "Minuto",
             },
             hour: {
                 en: "Hour",
@@ -461,7 +503,8 @@ export const translations = {
                 ua: "Година",
                 fr: "Heure",
                 ptbr: "Hora",
-                de: "Stunde"
+                de: "Stunde",
+                it: "Ora",
             },
             day: {
                 en: "Day",
@@ -470,7 +513,8 @@ export const translations = {
                 ua: "День",
                 fr: "Jour",
                 ptbr: "Dia",
-                de: "Tag"
+                de: "Tag",
+                it: "Giorno",
             },
             week: {
                 en: "Week",
@@ -479,7 +523,8 @@ export const translations = {
                 ua: "Тиждень",
                 fr: "Semaine",
                 ptbr: "Semana",
-                de: "Woche"
+                de: "Woche",
+                it: "Settimana",
             },
             month: {
                 en: "Month",
@@ -488,7 +533,8 @@ export const translations = {
                 ua: "Місяць",
                 fr: "Mois",
                 ptbr: "Mês",
-                de: "Monat"
+                de: "Monat",
+                it: "Mese",
             },
             year: {
                 en: "Year",
@@ -497,7 +543,8 @@ export const translations = {
                 ua: "Рік",
                 fr: "Année",
                 ptbr: "Ano",
-                de: "Jahr"
+                de: "Jahr",
+                it: "Anno",
             }
         }
     }
